@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>decathlon</name>
+    <displayName><![CDATA[Decathlon]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Para este punto ser&aacute; necesario crear un m&oacute;dulo que contenga un hook creado por usted o usar alg&uacute;n hook creado por Prestashop para mostrar la informaci&oacute;n del producto, la cual fue obtenida en el paso anterior.]]></description>
+    <author><![CDATA[Fernando Torres]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[¿Está seguro que desea desinstalarme? :(]]></confirmUninstall>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
